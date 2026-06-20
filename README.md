@@ -1,5 +1,10 @@
 # Rain in Australia - Binary Classification
 
+⚠️ GitHub may not render the full notebook because of its size.
+
+👉 Full notebook:
+https://nbviewer.org/github/iliaAndreevVia/Rain-in-Australia---Binary-Classification/blob/main/rain_australia_classification.ipynb
+
 ## Project Overview
 
 This project builds a binary classification model to predict whether it will rain tomorrow in Australia using historical weather observations collected from multiple meteorological stations.
